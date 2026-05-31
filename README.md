@@ -1,4 +1,4 @@
-<img width="2108" height="525" alt="image" src="https://github.com/user-attachments/assets/d5a803ff-2d02-4fc8-9c46-7de1d458f870" /># Sales-Performance-And-Insights
+# Sales-Performance-And-Insights
 This analysis provids a high-level overview of sales volume and revenue to track growth and identify top-performing product categories.
 
 ## Table of Content
@@ -28,6 +28,16 @@ Detect seasonal trends affecting sales
 Identify how quantity sold relates to revenue generation
 This project addresses these gaps by integrating sales data into a single interactive visual platform for better business intelligence.
 
+## Data cleaning and manipulation
+To ensure accurate analysis, the following data cleaning steps were applied in Excel and Power Query:
+Removal of duplicate transaction records
+Handling of missing or null values in revenue, quantity, and category fields
+Standardization of product and category names (e.g., consistent naming for vegetables and items)
+Conversion of numerical fields (revenue, quantity) into appropriate formats
+Aggregation of transactional data into monthly, category, and item-level summaries
+Validation of outliers in sales values to avoid distortion in insights
+
+## Key Insights
 
 <img width="1532" height="856" alt="image" src="https://github.com/user-attachments/assets/85d00e41-c7ec-4e12-b7a1-fa17d74a5c5a" />
 
