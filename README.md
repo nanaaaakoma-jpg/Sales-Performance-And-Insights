@@ -35,7 +35,14 @@ Identify how quantity sold relates to revenue generation.
 This project addresses these gaps by integrating sales data into a single interactive visual platform for better business intelligence.
 
 # Skills Demonstrated
-
+Data Visualization & Storytelling
+Data Cleaning, Transformation and Modeling
+DAX Measures and Calculations
+KPI Development and Monitoring
+Interactive Dashboard Design
+Business Intelligence Reporting and Critical Thinking
+Trend Analysis
+Sales Performance Analysis
 
 # Data cleaning and manipulation
 To ensure accurate analysis, the following data cleaning steps were applied in Excel and Power Query:
@@ -47,7 +54,7 @@ Aggregation of transactional data into monthly, category, and item-level summari
 Validation of outliers in sales values to avoid distortion in insights.
 
 # Key Insights
-<img width="1532" height="856" alt="image" src="https://github.com/user-attachments/assets/85d00e41-c7ec-4e12-b7a1-fa17d74a5c5a" />
+<img width="1264" height="705" alt="image" src="https://github.com/user-attachments/assets/495c3706-43f1-4f05-990e-2ea11f56d647" />
 The Executive Sales Performance Dashboard reveals a business that generated 3.37M in total revenue from 470.98K units sold, with Flower/Leaf Vegetables consistently emerging as the leading contributor to both revenue and sales volume, followed by Capsicum and Edible Mushroom. Revenue generation is concentrated among a few key categories, indicating strong demand for selected product groups. Product-level analysis shows that a small number of items account for a significant proportion of total sales volume, highlighting key revenue drivers within the portfolio. Monthly trends indicate noticeable seasonality, with sales performance peaking during specific periods of the year, demonstrating opportunities for strategic inventory and marketing planning.
 <img width="1258" height="822" alt="image" src="https://github.com/user-attachments/assets/93d34bcb-379d-40eb-b392-d5144f614610" />
 <img width="1259" height="829" alt="image" src="https://github.com/user-attachments/assets/0b8d0c66-2d02-41c2-b022-be3a7a05b94a" />
