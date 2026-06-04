@@ -3,10 +3,15 @@ This analysis provids a high-level overview of sales volume and revenue to track
 
 ## Table of Content
 Overview.
+
 Objectives.
+
 Problem Statement.
+
 Data cleaning and manipulation.
+
 Key insights.
+
 Recommendations.
 
 # Overview
@@ -21,27 +26,43 @@ MS Excel, Power Query, Power Bi
 
 # Objectives
 To monitor overall sales (both in revenue and quantity).
+
 To identify best-performing and underperforming product categories.
+
 To track monthly and seasonal sales variations.
+
 To understand product-level contribution to total sales.
+
 To support business decisions for inventory planning and marketing strategies.
 
 # Problem Statement
 Most businesses struggle to:
+
 Consolidate visibility into sales performance across categories and time.
+
 Identify top-performing products and revenue drivers.
+
 Detect seasonal trends affecting sales.
+
 Identify how quantity sold relates to revenue generation.
+
 This project addresses these gaps by integrating sales data into a single interactive visual platform for better business intelligence.
 
 # Skills Demonstrated
 Data Visualization & Storytelling
+
 Data Cleaning, Transformation and Modeling
-DAX Measures and Calculations
+
+DAX Measures and 
+
 KPI Development and Monitoring
+
 Interactive Dashboard Design
+
 Business Intelligence Reporting and Critical Thinking
+
 Trend Analysis
+
 Sales Performance Analysis
 
 # Data cleaning and manipulation
